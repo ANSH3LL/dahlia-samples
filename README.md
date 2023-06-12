@@ -1,2 +1,4 @@
 # dahlia-samples
-Free sample projects made with Dahlia Studio - [https://ansh3ll.itch.io/dahlia](https://ansh3ll.itch.io/dahlia)
+Free sample projects made with Dahlia Studio
+
+[Dahlia Studio](https://ansh3ll.itch.io/dahlia) is required to edit and build these samples
